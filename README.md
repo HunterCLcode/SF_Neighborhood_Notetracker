@@ -2,6 +2,8 @@
 
 An interactive, zero-backend web app for exploring and evaluating San Francisco neighborhoods. Click polygons on a dark map, write notes on each neighborhood, and eliminate ones you've ruled out — all without creating an account or touching a server.
 
+![SF Neighborhood Picker overview](screenshots/overview.png)
+
 ---
 
 ## Overview
@@ -39,11 +41,6 @@ npx serve .
 Then open `http://localhost:8080` in your browser.
 
 ---
-
-## Screenshots
-
-![Overview with eliminations](screenshots/overview.png)
-*Full app view — red neighborhoods have been eliminated, active ones remain in blue.*
 
 ![Selected neighborhood with notes](screenshots/neighborhood-selected.png)
 *Potrero Hill selected — the polygon highlights in blue and a notes field opens in the side panel.*
