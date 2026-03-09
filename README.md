@@ -40,6 +40,16 @@ Then open `http://localhost:8080` in your browser.
 
 ---
 
+## Screenshots
+
+![Overview with eliminations](screenshots/overview.png)
+*Full app view — red neighborhoods have been eliminated, active ones remain in blue.*
+
+![Selected neighborhood with notes](screenshots/neighborhood-selected.png)
+*Potrero Hill selected — the polygon highlights in blue and a notes field opens in the side panel.*
+
+---
+
 ## How to Use
 
 | Action | How |
